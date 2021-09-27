@@ -1,3 +1,3 @@
 ## Answer questions here...
 
-![Screenshot](./images/author_image.png)
+![Screenshot](./images/author-image.jpg)
